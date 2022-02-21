@@ -121,7 +121,7 @@ namespace bai3
             if (x.M != y.M && x.N != y.M)
             {
                 matrantong = new Matran(0, 0);
-                Console.WriteLine("Không thể cộng hai ma trận");
+                Console.WriteLine("Không thể trừ hai ma trận");
                 return matrantong;
             }
             else
